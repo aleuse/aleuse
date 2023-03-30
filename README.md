@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo sobre **Ciencia de Datos, Machine Learning, Deep Learning, Transfer Learning, Bases de Datos y herramientas de Visualización.**
 
-- 👨‍💻 Todos mis proyectos están [aquí](https://github.com/aleuse?tab=repositories)
+- 👨‍💻 Todos mis proyectos están [aquí.](https://github.com/aleuse?tab=repositories)
 
 - 📫 Correo electrónico **alexisgalvish@gmail.com**
 
