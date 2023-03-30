@@ -1,13 +1,13 @@
 <h1 align="center">Hola👋 soy Alexis Galvis</h1>
 <h3 align="center">Apasionado por la cultura de los datos; amante de las matemáticas, estadística y ciencias de la computación.</h3>
 
-- 🌱 Actualmente estoy aprendiendo sobre **Ciencia de Datos, Machine Learning, Deep Learning,Transfer Learning, Bases de Datos y herramientas de Visualización**
+- 🌱 Actualmente estoy aprendiendo sobre **Ciencia de Datos, Machine Learning, Deep Learning, Transfer Learning, Bases de Datos y herramientas de Visualización.**
 
-- 👨‍💻 Todos mis proyectos están en [https://github.com/aleuse](https://github.com/aleuse)
+- 👨‍💻 Todos mis proyectos están [aquí](https://github.com/aleuse?tab=repositories)
 
 - 📫 Correo electrónico **alexisgalvish@gmail.com**
 
-- 📄 Curriculum Vitae [https://drive.google.com/file/d/1ba26TySr6Io5H69voNhZQNgVufUQtBZE/view?usp=share_link](https://drive.google.com/file/d/1ba26TySr6Io5H69voNhZQNgVufUQtBZE/view?usp=share_link)
+- 📄 [Curriculum Vitae ](https://drive.google.com/file/d/1ba26TySr6Io5H69voNhZQNgVufUQtBZE/view?usp=share_link)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
