@@ -5,9 +5,9 @@
 
 - 👨‍💻 Todos mis proyectos están [aquí.](https://github.com/aleuse?tab=repositories)
 
-- 📫 Correo electrónico **alexisgalvish@gmail.com**
+- 📫 Correo electrónico: **alexisgalvish@gmail.com**
 
-- 📄 [Curriculum Vitae ](https://drive.google.com/file/d/1ba26TySr6Io5H69voNhZQNgVufUQtBZE/view?usp=share_link)
+- 📄 [Curriculum Vitae.](https://drive.google.com/file/d/1ba26TySr6Io5H69voNhZQNgVufUQtBZE/view?usp=share_link)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
