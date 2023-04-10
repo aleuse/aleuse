@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋 soy Alexis Galvis</h1>
 <h3 align="center">Apasionado por la cultura de los datos; amante de las matemáticas, estadística y ciencias de la computación.</h3>
 
-- 🌱 Actualmente estoy aprendiendo sobre **Ciencia de Datos, Machine Learning, Deep Learning, Transfer Learning, Bases de Datos y herramientas de Visualización.**
+- 🌱 Actualmente estoy aprendiendo sobre **Ciencia de Datos, Machine Learning, Deep Learning, Transfer Learning, MLOps, Bases de Datos y herramientas de Visualización.**
 
 - 👨‍💻 Todos mis proyectos están [aquí.](https://github.com/aleuse?tab=repositories)
 
